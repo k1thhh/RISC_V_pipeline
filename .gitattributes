@@ -1,0 +1,8 @@
+# Enforce Unix LF line endings for all Verilog and text files
+*.v   text eol=lf
+*.sv  text eol=lf
+*.md  text eol=lf
+*.hex text eol=lf
+*.s   text eol=lf
+*.py  text eol=lf
+Makefile text eol=lf

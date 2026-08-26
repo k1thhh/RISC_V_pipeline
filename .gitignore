@@ -1,0 +1,18 @@
+# Simulation build artifacts
+*.vvp
+*.vcd
+sim_out
+/tmp/
+
+# GTKWave session files (machine-specific paths; regenerate locally if needed)
+*.gtkw
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor/OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
